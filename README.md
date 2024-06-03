@@ -1,1 +1,2 @@
 # My-Project-1
+This is my first workstyle type assignment on the road to my new career.  I have given it a concise, descriptive title.  I made sure it had semantic HTML elements.  I made sure when viewing the structure of the HTML elements, that the elements follow a logical structure independent of styling and positioning.  I made sure the image elements had visible and accessible alt elements.  The heading attributes all fall in sequential order.  I actually am quite proud of my work!
